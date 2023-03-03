@@ -13,7 +13,7 @@ fun main() {
     println(numbers.indexOf(158))
     println(numbers.sorted())
 
-    val Names= arrayOf("Gisele","Claire","iShimwe")
+    val Names= arrayOf("Giselee","Claire","iShimwe")
     println(Names.contentToString())
 
 
